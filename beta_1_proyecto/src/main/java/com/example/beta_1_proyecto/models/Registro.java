@@ -1,7 +1,7 @@
 package com.example.beta_1_proyecto.models;
 
 
-    import jakarta.persistence.*;
+import jakarta.persistence.*;
 import java.time.LocalDateTime;
 import java.util.UUID;
 
